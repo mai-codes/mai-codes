@@ -18,7 +18,7 @@ science skills. I hope to continue learning and one day become a software engine
 ## What I know:
 
 ![Python](https://img.shields.io/badge/-Python%203-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-Python%203-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-c-black?logo=c%2B%2B&style=social)
 ![Flask](https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
