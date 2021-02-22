@@ -25,7 +25,7 @@ Throughout this past year, I have taken online courses on edX, Coursera, and Ude
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 
-## My stats
+## My stats:
 
 ![Maissoun's github stats](https://github-readme-stats.vercel.app/api?username=mai-codes&theme=default&show_icons=true) 
 
