@@ -2,7 +2,7 @@
 
 I'm Maissoun Ksara (a.k.a. mai-codes). Welcome to my github page!
 
-I have a B.S and M.S in Structural Engineering from Drexel University and I currently work full-time at an engineering company. However, I am extremely passionate about programming and computer science! 
+I'm pursuing my M.S in Computer Science at Drexel University and I currently work full-time at an engineering company. I am extremely passionate about programming and computer science! 
 I have been exposed to programming at a young age (thanks, Dad), took AP Computer Science in high school,
 and worked on several coding projects in college. 
 
