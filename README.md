@@ -2,11 +2,7 @@
 
 I'm Maissoun Ksara (a.k.a. mai-codes). Welcome to my github page!
 
-I'm from Morocco 🇲🇦 and moved to the U.S to pursue my education at Drexel University. I'm currently getting my M.S in Computer Science while work full-time at an engineering company. I am extremely passionate about programming and computer science! 
-I have been exposed to programming at a young age (thanks, Dad), took AP Computer Science in high school,
-and worked on several coding projects in college. 
-
-Throughout this past year, I have taken online courses on edX, Coursera, and Udemy (you can find those on my repositories) to further my computer science skills. I hope to continue learning and one day become a software engineer :grimacing:
+I'm currently getting my M.S in Computer Science while work full-time. I am extremely passionate about programming and computer science! :grimacing:
 
 ## You can talk to me in:
 
