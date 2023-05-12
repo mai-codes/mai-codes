@@ -2,7 +2,7 @@
 
 I'm Maissoun Ksara (a.k.a. mai-codes). Welcome to my github page!
 
-I'm currently getting my M.S in Computer Science while work full-time. I am extremely passionate about programming and computer science! :grimacing:
+I'm currently getting my M.S in Computer Science. I am extremely passionate about programming and computer science! :grimacing:
 
 ## You can talk to me in:
 
